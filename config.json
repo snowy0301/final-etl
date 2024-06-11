@@ -1,7 +1,7 @@
 {
     "adls": {
-        "connection_string": "DefaultEndpointsProtocol=https;AccountName=bausetl;AccountKey=c9bBArB0i/7lLHa86hrai2N8AHj3/pXDVfAg6Fbn7hFhiFXvpW2q3ECmqwdNzytDS5k8QvcFHypG+AStmHRe8w==;EndpointSuffix=core.windows.net",
-        "key": "c9bBArB0i/7lLHa86hrai2N8AHj3/pXDVfAg6Fbn7hFhiFXvpW2q3ECmqwdNzytDS5k8QvcFHypG+AStmHRe8w==",
+        "connection_string": connection_string,
+        "key": key,
         "sa_name": "bausetl"
     }
 }
