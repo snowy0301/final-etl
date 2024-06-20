@@ -1,6 +1,6 @@
 version: '3.5'
 services:
-  multl-threaded-selenium-scrapping:  # Change this to a unique name for your service
+  multi-threaded-selenium-scraping:  # Service name
     build:
       context: .
       dockerfile: Dockerfile
